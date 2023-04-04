@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **different projects**
 
-- 👨‍💻 All of my projects are available at [github.com/iamsanthosh2203/](https://github.com/Iamsanthosh2203?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github/repos](https://github.com/Iamsanthosh2203?tab=repositories)
 
 - 💬 Ask me about **useful software and websites I use.**
 
