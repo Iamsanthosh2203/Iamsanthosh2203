@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Santhosh Kumar</h1>
-<h3 align="center">A passionate Python Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="haha me" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611f529d6a4655da0dac5899bec27013e5ac980fe3c&rid=giphy.gif&ct=g">
 <p align="left"> <a href="https://twitter.com/iamsanthosh2203" target="blank"><img src="https://img.shields.io/twitter/follow/iamsanthosh2203?logo=twitter&style=for-the-badge" alt="iamsanthosh2203" /></a> </p>
 
