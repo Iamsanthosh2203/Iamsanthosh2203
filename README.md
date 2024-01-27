@@ -4,9 +4,9 @@
 
 <p align="left"> <a href="https://twitter.com/iamsanthosh2203" target="blank"><img src="https://img.shields.io/twitter/follow/iamsanthosh2203?logo=twitter&style=for-the-badge" alt="iamsanthosh2203" /></a> </p>
 
-- 🔭 I’m currently working on **Front End**
+- 🔭 I’m currently working on **MERN**
 
-- 🌱 I’m currently learning **JavaScript, React, Node JS**
+- 🌱 I’m currently learning **WEB API, SOCKET-IO, BACKEND STUFF**
 
 - 👯 I’m looking to collaborate on **Full Stack Development**
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Iamsanthosh2203?tab=repositories](https://github.com/Iamsanthosh2203?tab=repositories)
 
-- 💬 Ask me about **Tailwindcss and Javascript**
+- 💬 Ask me about **Tailwindcss, Javascript, React, Node JS, Express JS, API**
 
 - 📫 How to reach me **iamsanthosh2203@gmail.com**
 
